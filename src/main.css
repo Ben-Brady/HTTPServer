@@ -1,0 +1,13 @@
+:root{
+    --COLOR-1: #131515;
+    --COLOR-2: #2B2C28;
+}
+body {
+    background: var(--COLOR-2);
+
+    color: var(--COLOR-1);
+    text-align: center;
+    font-size: 7rem;
+    font-family: "Roboto", serif;
+    vertical-align: middle;
+}
